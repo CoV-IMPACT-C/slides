@@ -1,0 +1,10 @@
+#
+/presentacion_cache/ 
+/presentacion_files/
+/libs/
+
+# History files
+.txt
+# Session Data files
+.Rhistory
+
