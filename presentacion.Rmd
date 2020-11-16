@@ -140,7 +140,7 @@ class: center inverse middle
 ---
 <div class="logo-right"></div> 
 
-## EPESEC19
+## MOVID-IMPACT
 
 - **Encuesta** dos olas, representativa y telefónica. 
 
@@ -177,7 +177,7 @@ class: center inverse middle
 
 --
 
-- Lecciones: 
+- **WP N°1**: *Artículo sobre cuidados colectivos y afrontamiento de la pandemia*
 
 ---
 class: right bottom inverse
@@ -224,6 +224,8 @@ class:center inverse middle
 - **Paper N°1**: [“Propiedades diagnósticas de las definiciones de caso sospechoso de COVID-19 en Chile”](https://github.com/CoV-IMPACT-C/Diagnostic-criteria-COVID19-Chile)en la Revista Panamericana de Salud Pública.  (*por publicar*)
 [`r icon::fontawesome("rocket", style = "solid")`](https://github.com/CoV-IMPACT-C/Diagnostic-criteria-COVID19-Chile)
 
+.center[![:scale 50%](https://raw.githubusercontent.com/CoV-IMPACT-C/Diagnostic-criteria-COVID19-Chile/master/Figuras/Figura%202.jpeg)
+]
 ---
 <div class="logo-right"></div> 
 
@@ -232,7 +234,13 @@ class:center inverse middle
 - **Paper N° 2**: ["Gender disparities in access to care for time-sensitive conditions during COVID-19 pandemic in Chile"](https://www.medrxiv.org/content/10.1101/2020.09.11.20192880v1) (*under review*)
 [`r icon::fontawesome("book", style = "solid")`](https://www.medrxiv.org/content/10.1101/2020.09.11.20192880v1)
 [`r icon::fontawesome("rocket", style = "solid")`](https://github.com/CoV-IMPACT-C/gender-impact-access-covid)
---
+
+.center[![:scale 50%](https://raw.githubusercontent.com/CoV-IMPACT-C/gender-impact-access-covid/master/Graphs/Figure%203.png)
+]
+---
+<div class="logo-right"></div> 
+
+## Acceso No-COVID-19: 
 
 - **Informe técnico N°1: **[¿Cuál ha sido el impacto de la pandemia en el acceso a atenciones de salud? Un análisis para la adaptación de nuestro sistema de salud](https://www.movid19.cl/publicaciones/decimo-informe/)
 [`r icon::fontawesome("rocket", style = "solid")`](https://github.com/CoV-IMPACT-C/acceso-nocovid)
@@ -241,15 +249,18 @@ class:center inverse middle
 
 - **Informe técnico N°2: **[¿Cuál ha sido el impacto de la pandemia en el acceso a servicios ambulatorios vinculados al cáncer?](https://www.dropbox.com/s/zlk4b2269npu9xi/Analisis%20UCH%20-%20acceso%20a%20cancer%20y%20pandemia.pdf?dl=0)
 
+.center[![:scale 30%](input/img/cancer.png)
+]
+
 ---
 <div class="logo-right"></div> 
 
 ## Working Papers
 
 .small[
-- **WP N°1: ***¿Se asocia el posponer el control de patologías crónicas a características sociales, demográficas o clínicas de las personas?*  
--  **WP N°2: ***Cómo se asocian distintas dimensiones de riesgo al COVID y conductas de atención de salud*
-- **WP N°3: ***Trayectorias asistenciales de pacientes con enfermedades oncológicas durante la pandemia (INCANCER)*
+- **WP N°2:** *¿Se asocia el posponer el control de patologías crónicas a características sociales, demográficas o clínicas de las personas?*  
+-  **WP N°3:** *Cómo se asocian distintas dimensiones de riesgo al COVID y conductas de atención de salud*
+- **WP N°4:** *Trayectorias asistenciales de pacientes con enfermedades oncológicas durante la pandemia (INCANCER)*
 ]
 
 ---
@@ -273,12 +284,19 @@ class: center inverse middle
 - **Paper N° 3**: [Stay home, stay safe: analysis of the compliance with stay-at-home policies in Chile during the COVID-19 pandemic](https://github.com/CoV-IMPACT-C/Stay-home-stay-safe-COVID19-Chile) *Political Psicology* (*under review*)
 [`r icon::fontawesome("rocket", style = "solid")`](https://github.com/CoV-IMPACT-C/Stay-home-stay-safe-COVID19-Chile)
 
---
+.center[![:scale 20%](https://raw.githubusercontent.com/CoV-IMPACT-C/Stay-home-stay-safe-COVID19-Chile/master/Figures/Stay%20home%20stay%20save%20-%20Figure2.png)
+]
+
+---
+<div class="logo-right"></div> 
+
+## 3.2 Social 
 
 - **Informe técnico N°3: **[¿Cuál ha sido el impacto de la pandemia en las labores de cuidado?: Un análisis desde una perspectiva de género](https://www.movid19.cl/publicaciones/decimo-informe/)
 [`r icon::fontawesome("book", style = "solid")`](https://www.movid19.cl/publicaciones/decimo-informe/)
 [`r icon::fontawesome("rocket", style = "solid")`](https://github.com/CoV-IMPACT-C/cuidados)
 
+.center[![:scale 50%](https://raw.githubusercontent.com/CoV-IMPACT-C/cuidados/main/output/graphs/figura_3.png)]
 ---
 class: center inverse middle
 
@@ -335,6 +353,9 @@ class: center inverse middle
 - **Indicadores han aportado en ICOVID** [`r icon::fontawesome("chart-pie", style = "solid")`](https://www.icovidchile.cl/)
 
 (*participa Dra. Fuentes, Dr. Cuadrado, Dr. Canals*)
+
+.center[![:scale 90%](input/img/icovid.png)
+]
 
 --
 
