@@ -74,6 +74,7 @@ class: center
 
 .center[![:scale 90%](input/img/video-team.gif)
 ]
+
 ---
 <div class="logo-right"></div> 
 
