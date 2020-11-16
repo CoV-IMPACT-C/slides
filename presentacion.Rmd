@@ -152,7 +152,11 @@ class: center inverse middle
 
 --
 
-- Análisis basados en modelos más robustos que sirven a cada línea
+- Análisis basados en una muestra probabilistica servirán a todas las líneas.
+
+--
+
+- Trabajo de campo: Noviembre 2020 y Abril 2021
 
 ---
 class: center inverse middle
@@ -222,7 +226,7 @@ class:center inverse middle
 
 ## Acceso COVID-19
 
-- **Paper N°1**: [“Propiedades diagnósticas de las definiciones de caso sospechoso de COVID-19 en Chile”](https://github.com/CoV-IMPACT-C/Diagnostic-criteria-COVID19-Chile)en la Revista Panamericana de Salud Pública.  (*por publicar*)
+- **Paper N°1**: [“Propiedades diagnósticas de las definiciones de caso sospechoso de COVID-19 en Chile”](https://github.com/CoV-IMPACT-C/Diagnostic-criteria-COVID19-Chile)en la Revista Panamericana de Salud Pública.  (*en prensa*)
 [`r icon::fontawesome("rocket", style = "solid")`](https://github.com/CoV-IMPACT-C/Diagnostic-criteria-COVID19-Chile)
 
 .center[![:scale 50%](https://raw.githubusercontent.com/CoV-IMPACT-C/Diagnostic-criteria-COVID19-Chile/master/Figuras/Figura%202.jpeg)
@@ -282,7 +286,7 @@ class: center inverse middle
 
 ## 3.2 Social 
 
-- **Paper N° 3**: [Stay home, stay safe: analysis of the compliance with stay-at-home policies in Chile during the COVID-19 pandemic](https://github.com/CoV-IMPACT-C/Stay-home-stay-safe-COVID19-Chile) *Political Psicology* (*under review*)
+- **Paper N° 3**: [Stay home, stay safe: analysis of the compliance with stay-at-home policies in Chile during the COVID-19 pandemic](https://github.com/CoV-IMPACT-C/Stay-home-stay-safe-COVID19-Chile) *Political Psychology* (*under review*)
 [`r icon::fontawesome("rocket", style = "solid")`](https://github.com/CoV-IMPACT-C/Stay-home-stay-safe-COVID19-Chile)
 
 .center[![:scale 20%](https://raw.githubusercontent.com/CoV-IMPACT-C/Stay-home-stay-safe-COVID19-Chile/master/Figures/Stay%20home%20stay%20save%20-%20Figure2.png)
@@ -349,7 +353,7 @@ class: center inverse middle
 ---
 <div class="logo-right"></div> 
 
-## 3.3 Impacto 
+## 3.4 Indicadores 
 
 - **Indicadores han aportado en ICOVID** [`r icon::fontawesome("chart-pie", style = "solid")`](https://www.icovidchile.cl/)
 
