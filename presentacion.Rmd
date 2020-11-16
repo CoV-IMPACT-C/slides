@@ -389,3 +389,28 @@ Valentina Andrade<br> [www.movid19.cl/](https://www.movid19.cl/)  <br>]
 
 .small[Semana de Articulación COVID-19, ANID<br>*17 de Noviembre, 2020*]
 <br>]
+
+```{r metathis, echo=FALSE}
+library(metathis)
+meta() %>%
+  meta_name("github-repo" = "CoV-IMPACT-C/slides") %>% 
+  meta_social(
+    title = "CoV-IMPACT-C",
+    description = paste(
+      "ANID-COVID N°960",
+      "Semana de Articulación COVID-19"
+    ),
+    url = "https://www.movid19.cl/",
+    image = "https://www.movid19.cl/presentaciones.png",
+    image_alt = paste(
+      "CoV-IMPACT-C", 
+      "ANID-COVID N°960", 
+      "presentada en la Semana de la Articulación COVID-19 ANID por Valentina Andrade"
+    ),
+    og_type = "website",
+    og_author = "Valentina Andrade",
+    twitter_card_type = "summary_large_image",
+    twitter_creator = "@valentiandrade",
+    twitter_site = "@valentiandrade"
+  )
+```
