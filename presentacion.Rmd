@@ -80,7 +80,7 @@ class: center
 
 # 1. Quiénes somos
 
-- Un equipo interdisciplinario de 36 investigadores/as: medicina, sociología, antropología, economía, estadística, psicología. 
+- Un equipo interdisciplinario de 36 investigadores/as: salud pública, epidemiología, sociología, antropología, economía, estadística, psicología. 
 
 - **La Universidad de Chile patrocina** pero participan académicos de distintas casas de estudio
 
@@ -375,6 +375,8 @@ class: inverse center middle
 Para más información
 
 # [www.movid19.cl/](https://www.movid19.cl/)
+
+# [github/CoV-IMPACT-C](https://github.com/CoV-IMPACT-C)
 
 ---
 background-image: url("https://upload.wikimedia.org/wikipedia/commons/b/bc/Untitled_design.gif")
