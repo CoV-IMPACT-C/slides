@@ -421,3 +421,7 @@ meta() %>%
     twitter_site = "@valentiandrade"
   )
 ```
+
+```{r print, echo = F}
+pagedown::chrome_print(input = "01presentacion.html", output = "output/01presentacion.pdf", format = "pdf")
+```
