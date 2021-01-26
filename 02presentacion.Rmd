@@ -131,7 +131,7 @@ background-size: small
 
 - [Sitio web](www.movid19.cl) y [Shiny App](https://movid19.cl/app) de código abierto y programa en [R `r icon::simple_icons$r`](https://movid19.cl/app)
 
-
+---
 <div class="logo-right"></div> 
 
 ### MOVID-IMPACT
@@ -262,16 +262,33 @@ class: inverse
 
 <div class="logo-blank-right"></div> 
 
-### Barreras socio-económicos
+### 1. Barreras socio-económicos
+
 - Promover permisos para teletrabajar
-- Horarios de trabajo diferidos en los sectores económicos más concentrados
-- Pago de transporte a trabajadores de sectores esenciales
-- Resguardo de aforo en lugares de trabajo
 
 --
 
-### Barreras psicosociales
+- Horarios de trabajo diferidos en los sectores económicos más concentrados
+
+--
+
+- Pago de transporte a trabajadores de sectores esenciales
+
+--
+
+- Resguardo de aforo en lugares de trabajo
+
+---
+class: inverse
+
+<div class="logo-blank-right"></div> 
+
+### 2. Barreras psicosociales
+
 - Aumentar el presupuesto destinado a salud mental, focalizando los recursos en la atención primaria de salud
+
+--
+
 - Acciones de prevención y tratamiento tradicionales pueden ser potenciadas a través del uso de internet y plataformas digitales
 
 ---
@@ -279,21 +296,39 @@ class: inverse
 
 <div class="logo-blank-right"></div> 
 
-### Comunicación de riesgos
-- Comunicar adecuadamente los riesgos del coronavirus para distintas poblaciones
+### 3. Comunicación de riesgos
+
+- Comunicar adecuadamente los riesgos del coronavirus para distintas poblaciones.
+
+--
+
 - Evitar dar señales de mejora en momentos de gravedad de la crisis
 
+---
+class: inverse
+
+<div class="logo-blank-right"></div> 
+
+### 4. Comunicar normas sociales
+
+- Comunicar ejemplos de otras personas y autoridades que cumplen con las normas
+
 --
 
-### Comunicar normas sociales
-- Comunicar ejemplos de otras personas y autoridades que cumplen con las normas
 - Evitar destacar constantemente casos de incumplimiento (medios de comunicación)
 
+---
+class: inverse
+<div class="logo-blank-right"></div> 
+
+### 5. Fiscalización del cumplimiento de medidas sanitarias
+
+- Aumentar fiscalización de cumplimiento de medidas sanitarias
+
 --
 
-### Fiscalización del cumplimiento de medidas sanitarias
-- Aumentar fiscalización de cumplimiento de medidas sanitarias
 - Aumentar comunicación de fiscalización a la ciudadanía
+
 ---
 class: inverse center middle
 <div class="logo-blank-right"></div> 
