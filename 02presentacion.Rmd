@@ -135,14 +135,12 @@ background-size: small
 
 ---
 <div class="logo-right"></div> 
-
-## MOVID-IMPACT
+### MOVID-IMPACT
 ### Metodología
-- **Temporalidad**
-  - Transversal combinado ( 1° medición en diciembre 2020 y 2° en abril 2021)
---
-
-  - Gif conTendencias de números de contagiados y muertos 
+- **Temporalidad**: transversal combinado ( 1° medición en diciembre 2020 y 2° en abril 2021)
+---
+.center[![:scale 90%](input/img/figures/movid_impact_context.png)]
+.tiny[**Figura 0.** Casos contagiagos]
 
 ---
 <div class="logo-right"></div> 
@@ -151,7 +149,7 @@ background-size: small
 ### Metodología
 
 - **Encuesta telefónica**
-  - Terreno realizado por el [Centro de Encuestas UC](http://www.encuestas.uc.cl/)
+  - Terreno realizado por el [Centro de Encuestas UC](http://www.encuestas.uc.cl/) entre el 4 y 22 de diciembre
   
 --
 
@@ -189,6 +187,14 @@ class: center middle
 
 .center[![:scale 90%](input/img/figures/figure1.png)]
 .small[**Figura 1.** Proporción de personas que indican *"Siempre"* cumplir alguna de las medidas de cuidado señaladas (*n=1.261 casos*)]
+
+---
+class: inverse 
+.tiny[*¿Cuánto nos cuidamos del COVID-19 en Chile?*]
+
+.center[![:scale 90%](input/img/figures/figure2.png)]
+.small[Figura 3. Probabilidades predichas para  (*n= 1.261 casos*)]
+
 ---
 class: center inverse middle
 
@@ -206,15 +212,15 @@ class: center middle
 .tiny[<div class="logo-right"></div> 
 *1. Porque no creemos que el COVID-19 sea un peligro real*]
 
-.center[![:scale 95%](input/img/figures/figure2.png)]
+.center[![:scale 95%](input/img/figures/figure3.png)]
 
-.small[**Figura 2.** Distribución de la percepción de riesgo en la población (*n= 1.261 casos*)]
+.small[**Figura 3.** Distribución de la percepción de riesgo en la población (*n= 1.261 casos*)]
 ---
 class: inverse 
 .tiny[*1. Porque no creemos que el COVID-19sea un peligro real*]
 
-.center[![:scale 90%](input/img/figures/figure2.png)]
-.small[Figura 3. Probabilidades predichas de la percepción de riesgo en la población (*n= 1.261 casos*)]
+.center[![:scale 90%](input/img/figures/figure4.png)]
+.small[Figura 4. Probabilidades predichas de la percepción de riesgo en la población (*n= 1.261 casos*)]
 ---
 class: center middle
 
@@ -225,13 +231,13 @@ class: center middle
 ---
 .tiny[<div class="logo-right"></div> 
 *2. Porque sentimos que nos cuidamos*]
-.center[![:scale 90%](input/img/figures/figure4.png)]
-.tiny[**Figura 4.** Distribución de la percepción de cuidado en la población (*n= 1.261*)]
+.center[![:scale 90%](input/img/figures/figure5.png)]
+.tiny[**Figura 5.** Distribución de la percepción de cuidado en la población (*n= 1.261*)]
 ---
 class: inverse
 .tiny[*2. Porque sentimos que nos cuidamos*]
-.center[![:scale 90%](input/img/figures/figure4.png)]
-.tiny[Figura 5. Probabilidades predichas de la percepción de cuidado (*n= 1.261*)]
+.center[![:scale 90%](input/img/figures/figure6.png)]
+.tiny[Figura 6. Probabilidades predichas de la percepción de cuidado (*n= 1.261*)]
 ---
 class: center middle
 
@@ -242,13 +248,13 @@ class: center middle
 ---
 .tiny[<div class="logo-right"></div> 
 *3. Porque nos pasará nada si no seguimos las reglas*]
-.center[![:scale 85%](input/img/figures/figure6.png)]
-.tiny[**Figura 6.** Distribución de la percepción de sanciones legales por no cumplir normas sanitarias (*n= 1.261*)]
+.center[![:scale 85%](input/img/figures/figure7.png)]
+.tiny[**Figura 7.** Distribución de la percepción de sanciones legales por no cumplir normas sanitarias (*n= 1.261*)]
 ---
 class: inverse
 .tiny[*3. Porque nos pasará nada si no seguimos las reglas*]
-.center[![:scale 85%](input/img/figures/figure6.png)]
-.tiny[Figura 7. Probabilidades predichas de la percepción de sanciones legales por no cumplir normas sanitarias (*n= 1.261*)]
+.center[![:scale 85%](input/img/figures/figure8.png)]
+.tiny[Figura 8. Probabilidades predichas de la percepción de sanciones legales por no cumplir normas sanitarias (*n= 1.261*)]
 
 ---
 class: center middle
@@ -260,14 +266,32 @@ class: center middle
 ---
 .tiny[<div class="logo-right"></div> 
 *4. Porque los demás tampoco lo hacen*]
-.center[![:scale 83%](input/img/figures/figure8.png)]
-.tiny[**Figura 8.** Distribución de la percepción del cumplimiento de normas sanitarias del resto de la población (*n= 1.261*)]
+.center[![:scale 83%](input/img/figures/figure9.png)]
+.tiny[**Figura 9.** Distribución de la percepción del cumplimiento de normas sanitarias del resto de la población (*n= 1.261*)]
 ---
 class: inverse
 .tiny[*4. Porque los demás tampoco lo hacen*]
-.center[![:scale 83%](input/img/figures/figure8.png)]
-.tiny[Figura 9. Probabilidades predichas de la percepción cumplimiento de normas sanitarias de la población(*n= 1.261*)]
+.center[![:scale 83%](input/img/figures/figure10.png)]
+.tiny[Figura 10. Probabilidades predichas de la percepción cumplimiento de normas sanitarias de la población(*n= 1.261*)]
 ---
+class: center middle
+
+<div class="logo-right"></div> 
+
+## 5. Por razones estructurales 
+
+---
+.tiny[<div class="logo-right"></div> 
+*5. Porque trabajamos*]
+.center[![:scale 83%](input/img/figures/figure11.png)]
+.tiny[**Figura 9.** Distribución de la percepción del cumplimiento de normas sanitarias del resto de la población (*n= 1.261*)]
+---
+class: inverse
+.tiny[*6. Porque la situación de salud mental*]
+.center[![:scale 83%](input/img/figures/figure10.png)]
+.tiny[Figura 10. Probabilidades predichas de la percepción cumplimiento de normas sanitarias de la población(*n= 1.261*)]
+---
+
 class: center middle
 
 <div class="logo-blank"></div> 
