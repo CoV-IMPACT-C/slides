@@ -82,7 +82,9 @@ class: center
 
 - Un equipo interdisciplinario de 36 investigadores/as: salud pública, epidemiología, sociología, antropología, economía, estadística, psicología. 
 
-- **La Universidad de Chile patrocina** pero participan académicos de distintas casas de estudio
+- Proyecto patrocinado por **la Universidad de Chile** 
+
+- Participan académicos de distintas casas de estudio
 
 ![:scale 80%](input/img/institutions.png)
 
@@ -98,10 +100,6 @@ class: center inverse
 class: right bottom inverse
 
 <div class="logo-blank"></div> 
-
-# Línea de Encuestas
-
---
 
 ##  MOVID-19
 
@@ -121,7 +119,7 @@ background-size: small
 
 - **Encuesta** panel online
 
-  - Desde abril 2020 a la fecha ha monitoreado <br> hasta 40.000 participantes
+  - Desde abril 2020 a la fecha ha monitoreado <br> a más de 40.000 participantes
 
   - [Ver informe metodológico](https://movid19.cl/informe/metodologico) [`r icon::fontawesome("book", style = "solid")`](https://movid19.cl/informe/metodologico)
 
@@ -133,28 +131,31 @@ background-size: small
 
 - [Sitio web](www.movid19.cl) y [Shiny App](https://movid19.cl/app) de código abierto y programa en [R `r icon::simple_icons$r`](https://movid19.cl/app)
 
----
+
 <div class="logo-right"></div> 
+
 ### MOVID-IMPACT
-### Metodología
-- **Temporalidad**: transversal combinado ( 1° medición en diciembre 2020 y 2° en abril 2021)
----
-.center[![:scale 80%](input/img/figures/figure0.png)]
-.tiny[**Figura 0.** Evolución de los casos contagiados por COVID-19 de marzo a la fecha. Fuente: [Ministerio de la Ciencia](https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto5/TotalesNacionales_T.csv)]
-
----
-<div class="logo-right"></div> 
-
-## MOVID-IMPACT: Metodología
+#### Metodología
 
 - **Encuesta telefónica**
-  - Terreno realizado por el [Centro de Encuestas UC](http://www.encuestas.uc.cl/) entre el 4 y 22 de diciembre
+  - Terreno realizado por el [Centro de Encuestas UC](http://www.encuestas.uc.cl/) entre el 4 y el 22 de diciembre 2020
   
 --
 
 - **Diseño muestral**
-  - Población objetivo: mayores de 18 años que residen en zonas urbanas de Chile
-  - 1° medición *n = 1.261 casos*
+  - Población objetivo: mayores de 18 años que residen en **zonas urbanas** de Chile
+  - Diseño probabilístico y estratificado según área geográfica y tamaño poblacional
+  - Marco muestral actualizado de direcciones de viviendas particulares representativo de la población nacional
+  - *n = 1.261 casos*
+
+---
+<div class="logo-right"></div> 
+### MOVID-IMPACT
+#### Metodología
+- **Temporalidad**: transversal combinado ( 1° medición en diciembre 2020 y 2° en abril 2021)
+---
+.center[![:scale 80%](input/img/figures/figure0.png)]
+.tiny[**Figura 0.** Evolución de los casos contagiados por COVID-19 de marzo a la fecha Fuente: [Ministerio de la Ciencia](https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto5/TotalesNacionales_T.csv)]
 
 ---
 background-image: url("input/img/movid-impact.png")
@@ -163,8 +164,9 @@ background-size: 742px 430px
 
 <div class="logo-right"></div> 
 
-### Dimensiones MOVID-IMPACT
 
+### MOVID-IMPACT
+#### Dimensiones
 ---
 class: center inverse middle
 
@@ -178,20 +180,19 @@ class: center middle
 
 <div class="logo-blank"></div> 
 
-# ¿Cuánto nos cuidamos del COVID-19 en Chile?
+## ¿Cuánto nos cuidamos del COVID-19 en Chile?
 
 ---
-<div class="logo-right"></div> 
 .tiny[*¿Cuánto nos cuidamos del COVID-19 en Chile?*]
 .center[![:scale 80%](input/img/figures/figure1.png)]
-.small[**Figura 1.** Proporción de personas que indican *"Siempre"* cumplir las medidas de cuidado señaladas (*n=1.261 casos*)]
+.small[**Figura 1.** Proporción de personas que cumplen cada medida de cuidado (*n=1.261 casos*)]
 
 ---
 class: center inverse middle
 
 <div class="logo-blank"></div> 
 
-# Barreras al cuidado en pandemia en Chile
+## Barreras al cuidado en pandemia en Chile
 
 ---
 class: center middle
@@ -200,22 +201,16 @@ class: center middle
 
 ## 1. Barreras **socio-económicas**
 ---
-.tiny[<div class="logo-right"></div> 
-*1. Barreras **socio-económicas***]
 .center[![:scale 82%](input/img/figures/figure2.png)]
 .small[**Figura 2.** Prácticas de cuidados según si encuestado trabaja o no (*n= 1.261 casos*)]
 ---
 class: center middle
 <div class="logo-right"></div> 
-## 2. Barreras de **salud mental**
+## 2. Barreras **psicosociales**
 ---
-.tiny[<div class="logo-right"></div> 
-*2. Barreras de **salud mental***]
 .center[![:scale 82%](input/img/figures/figure3.png)]
 .small[**Figura 3.** Proporción de personas que reportan síntomas depresivos (*n= 1.261 casos*)]
 ---
-.tiny[<div class="logo-right"></div> 
-*2. Barreras de **salud mental***]
 .center[![:scale 82%](input/img/figures/figure4.png)]
 .small[**Figura 4.** Prácticas de cuidado según síntomas depresivos (*n= 1.261 casos*)]
 ---
@@ -223,23 +218,15 @@ class: center middle
 <div class="logo-right"></div> 
 ## 3. Percepción de **riesgo del coronavirus**
 ---
-.tiny[<div class="logo-right"></div> 
-*3. Percepción de **riesgo del coronavirus***]
 .center[![:scale 82%](input/img/figures/figure5.png)]
 .small[**Figura 5.** Percepción de riesgo del coronavirus (*n= 1.261 casos*)]
 ---
-.tiny[<div class="logo-right"></div> 
-*3. Percepción de **riesgo del coronavirus***]
 .center[![:scale 82%](input/img/figures/figure6.png)]
-.small[**Figura 4.** Percepción de control sobre el coronavirus (*n= 1.261 casos*)]
+.small[**Figura 6.** Percepción de control sobre el coronavirus (*n= 1.261 casos*)]
 ---
-class: inverse 
-.tiny[*3. Percepción de **riesgo del coronavirus***]
 .center[![:scale 80%](input/img/figures/figure7.png)]
 .small[Figura 4. Probabilidades estimadas de cuidarse según percepción de riesgo (*n= 1.261 casos*)]
 ---
-class: inverse 
-.tiny[*3. Percepción de **riesgo del coronavirus***]
 .center[![:scale 80%](input/img/figures/figure8.png)]
 .small[Figura 4. Probabilidades estimadas de cuidarse según percepción de control (*n= 1.261 casos*)]
 ---
@@ -247,27 +234,19 @@ class: center middle
 <div class="logo-right"></div> 
 ## 4. Percepción de **normas sociales**
 ---
-.tiny[<div class="logo-right"></div> 
-4. Percepción de **normas sociales**]
 .center[![:scale 75%](input/img/figures/figure9.png)]
 .tiny[**Figura 5.** Percepción sobre cuidados que toman otros (*n= 1.261*)]
 ---
-class: inverse
-.tiny[*4. Percepción de normas sociales*]
 .center[![:scale 80%](input/img/figures/figure10.png)]
-.tiny[Figura 6. Probabilidades estimadas de cuidado según cuidados de otros (*n= 1.261*)]
+.tiny[Figura 6. Probabilidades estimadas de cuidarse según cuidados de otros (*n= 1.261*)]
 ---
 class: center middle
 <div class="logo-right"></div> 
 ## 5. Percepciones de **fiscalización** 
 ---
-.tiny[<div class="logo-right"></div> 
-*5. Percepciones de fiscalización*]
 .center[![:scale 82%](input/img/figures/figure11.png)]
 .tiny[**Figura 7.**Percepción de fiscalización por no cumplir normas sanitarias (*n= 1.261*)]
 ---
-class: inverse
-.tiny[*5. Percepciones de fiscalización*]
 .center[![:scale 80%](input/img/figures/figure12.png)]
 .tiny[Figura 8. Probabilidades estimadas de cuidado según percepción de fiscalización (*n= 1.261*)]
 ---
@@ -276,40 +255,43 @@ class: center middle
 
 <div class="logo-blank"></div> 
 
-# ¿Cómo reducir las **barreras al cuidado en la pandemia por COVID-19**?
+## ¿Cómo reducir las **barreras al cuidado en la pandemia por COVID-19**?
 
 ---
-class: center inverse middle
+class: inverse
 
 <div class="logo-blank-right"></div> 
 
-### 1. Barreras socio-económicos
+### Barreras socio-económicos
 - Promover permisos para teletrabajar
-- Horarios de trabajo diferidos en los sectores económicos más concentrados (grandes empresas y productivos)
-- Pago de transporte a trabajadores de estos sectores o esenciales
+- Horarios de trabajo diferidos en los sectores económicos más concentrados
+- Pago de transporte a trabajadores de sectores esenciales
+- Resguardo de aforo en lugares de trabajo
 
 --
 
-### 2. Barreras de salud mental
+### Barreras psicosociales
 - Aumentar el presupuesto destinado a salud mental, focalizando los recursos en la atención primaria de salud
 - Acciones de prevención y tratamiento tradicionales pueden ser potenciadas a través del uso de internet y plataformas digitales
 
 ---
-class: center inverse middle
+class: inverse
 
 <div class="logo-blank-right"></div> 
 
-### 3. Comunicación de riesgos
+### Comunicación de riesgos
 - Comunicar adecuadamente los riesgos del coronavirus para distintas poblaciones
 - Evitar dar señales de mejora en momentos de gravedad de la crisis
 
 --
 
-### 4. Comunicar normas sociales
+### Comunicar normas sociales
 - Comunicar ejemplos de otras personas y autoridades que cumplen con las normas
 - Evitar destacar constantemente casos de incumplimiento (medios de comunicación)
 
-### 5. Fiscalización del cumplimiento de medidas sanitarias
+--
+
+### Fiscalización del cumplimiento de medidas sanitarias
 - Aumentar fiscalización de cumplimiento de medidas sanitarias
 - Aumentar comunicación de fiscalización a la ciudadanía
 ---
@@ -325,7 +307,7 @@ class: inverse center middle
 # [`r icon::simple_icons$github` github/CoV-IMPACT-C ](https://github.com/CoV-IMPACT-C)
 
 ---
-class: inverse center middle
+class: inverse middle
 <div class="logo-blank-right"></div> 
 
 *Equipo a cargo del análisis de la encuesta:*
