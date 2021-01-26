@@ -172,7 +172,7 @@ class: center inverse middle
 
 <div class="logo-blank"></div> 
 
-## 3. Principales resultados
+## Principales resultados: ¿Cuáles son las barreras al cuidado en pandemia en Chile?
 
 ---
 class: center middle
@@ -186,133 +186,162 @@ class: center middle
 .tiny[*¿Cuánto nos cuidamos del COVID-19 en Chile?*]
 
 .center[![:scale 90%](input/img/figures/figure1.png)]
-.small[**Figura 1.** Proporción de personas que indican *"Siempre"* cumplir alguna de las medidas de cuidado señaladas (*n=1.261 casos*)]
+.small[**Figura 1.** Proporción de personas que indican *"Siempre"* cumplir las medidas de cuidado señaladas (*n=1.261 casos*)]
 
----
-class: inverse 
-.tiny[*¿Cuánto nos cuidamos del COVID-19 en Chile?*]
-
-.center[![:scale 90%](input/img/figures/figure2.png)]
-.small[Figura 3. Probabilidades predichas para  (*n= 1.261 casos*)]
 
 ---
 class: center inverse middle
 
 <div class="logo-blank"></div> 
 
-# ¿Por qué no nos cuidamos del COVID-19 en Chile?
+# Barreras al cuidado en pandemia en Chile
 
 ---
 class: center middle
 
 <div class="logo-right"></div> 
 
-## 1. Porque no creemos que el COVID-19<br>sea un **peligro real**
+## 1. Barreras **socio-económicas**
 ---
 .tiny[<div class="logo-right"></div> 
-*1. Porque no creemos que el COVID-19 sea un peligro real*]
+*1. Barreras **socio-económicas**]
+
+.center[![:scale 95%](input/img/figures/figure2.png)]
+
+.small[**Figura 2.** Prácticas de cuidados según si encuestado trabaja o no (*n= 1.261 casos*)]
+---
+
+class: center middle
+
+<div class="logo-right"></div> 
+
+## 2. Barreras de **salud mental**
+---
+.tiny[<div class="logo-right"></div> 
+*2. Barreras de **salud mental**]
 
 .center[![:scale 95%](input/img/figures/figure3.png)]
 
-.small[**Figura 3.** Distribución de la percepción de riesgo en la población (*n= 1.261 casos*)]
+.small[**Figura 3.** Proporción de personas que reportan síntomas depresivos (*n= 1.261 casos*)]
+---
+
+.tiny[<div class="logo-right"></div> 
+*2. Barreras de **salud mental**]
+
+.center[![:scale 95%](input/img/figures/figure4.png)]
+
+.small[**Figura 4.** Prácticas de cuidado según síntomas depresivos (*n= 1.261 casos*)]
+---
+
+class: center middle
+
+<div class="logo-right"></div> 
+
+## 3. Percepción de **riesgo del coronavirus**
+---
+.tiny[<div class="logo-right"></div> 
+*3. Percepción de **riesgo del coronavirus**]
+
+.center[![:scale 95%](input/img/figures/figure5.png)]
+
+.small[**Figura 5.** Percepción de riesgo del coronavirus (*n= 1.261 casos*)]
+
+---
+.tiny[<div class="logo-right"></div> 
+*3. Percepción de **riesgo del coronavirus**]
+
+.center[![:scale 95%](input/img/figures/figure6.png)]
+
+.small[**Figura 4.** Percepción de control sobre el coronavirus (*n= 1.261 casos*)]
+
 ---
 class: inverse 
-.tiny[*1. Porque no creemos que el COVID-19sea un peligro real*]
+.tiny[*3. Percepción de **riesgo del coronavirus**]
 
-.center[![:scale 90%](input/img/figures/figure4.png)]
-.small[Figura 4. Probabilidades predichas de la percepción de riesgo en la población (*n= 1.261 casos*)]
+.center[![:scale 90%](input/img/figures/figure7.png)]
+.small[Figura 4. Probabilidades estimadas de cuidarse según percepción de riesgo (*n= 1.261 casos*)]
+---
+
+---
+class: inverse 
+.tiny[*3. Percepción de **riesgo del coronavirus**]
+
+.center[![:scale 90%](input/img/figures/figure8.png)]
+.small[Figura 4. Probabilidades estimadas de cuidarse según percepción de control (*n= 1.261 casos*)]
+---
+
+class: center middle
+
+<div class="logo-right"></div> 
+
+## 4. Percepción de **normas sociales**
+
+---
+.tiny[<div class="logo-right"></div> 
+4. Percepción de **normas sociales**]
+.center[![:scale 90%](input/img/figures/figure9.png)]
+.tiny[**Figura 5.** Percepción sobre cuidados que toman otros (*n= 1.261*)]
+---
+class: inverse
+.tiny[4. Percepción de **normas sociales**]
+.center[![:scale 90%](input/img/figures/figure10.png)]
+.tiny[Figura 6. Probabilidades estimadas de cuidado según cuidados de otros (*n= 1.261*)]
 ---
 class: center middle
 
 <div class="logo-right"></div> 
 
-## 2. Porque sentimos que nos cuidamos 
+## 5. Percepciones de fiscalización 
 
 ---
 .tiny[<div class="logo-right"></div> 
-*2. Porque sentimos que nos cuidamos*]
-.center[![:scale 90%](input/img/figures/figure5.png)]
-.tiny[**Figura 5.** Distribución de la percepción de cuidado en la población (*n= 1.261*)]
+5. Percepciones de fiscalización]
+.center[![:scale 85%](input/img/figures/figure11.png)]
+.tiny[**Figura 7.**Percepción de fiscalización por no cumplir normas sanitarias (*n= 1.261*)]
 ---
 class: inverse
-.tiny[*2. Porque sentimos que nos cuidamos*]
-.center[![:scale 90%](input/img/figures/figure6.png)]
-.tiny[Figura 6. Probabilidades predichas de la percepción de cuidado (*n= 1.261*)]
----
-class: center middle
+.tiny[5. Percepciones de fiscalización]
+.center[![:scale 85%](input/img/figures/figure12.png)]
+.tiny[Figura 8. Probabilidades estimadas de cuidado según percepción de fiscalización (*n= 1.261*)]
 
-<div class="logo-right"></div> 
-
-## 3. Porque nos pasará nada si no seguimos las reglas 
-
----
-.tiny[<div class="logo-right"></div> 
-*3. Porque nos pasará nada si no seguimos las reglas*]
-.center[![:scale 85%](input/img/figures/figure7.png)]
-.tiny[**Figura 7.** Distribución de la percepción de sanciones legales por no cumplir normas sanitarias (*n= 1.261*)]
----
-class: inverse
-.tiny[*3. Porque nos pasará nada si no seguimos las reglas*]
-.center[![:scale 85%](input/img/figures/figure8.png)]
-.tiny[Figura 8. Probabilidades predichas de la percepción de sanciones legales por no cumplir normas sanitarias (*n= 1.261*)]
-
----
-class: center middle
-
-<div class="logo-right"></div> 
-
-## 4. Porque los demás tampoco lo hacen 
-
----
-.tiny[<div class="logo-right"></div> 
-*4. Porque los demás tampoco lo hacen*]
-.center[![:scale 83%](input/img/figures/figure9.png)]
-.tiny[**Figura 9.** Distribución de la percepción del cumplimiento de normas sanitarias del resto de la población (*n= 1.261*)]
----
-class: inverse
-.tiny[*4. Porque los demás tampoco lo hacen*]
-.center[![:scale 83%](input/img/figures/figure10.png)]
-.tiny[Figura 10. Probabilidades predichas de la percepción cumplimiento de normas sanitarias de la población(*n= 1.261*)]
----
-class: center middle
-
-<div class="logo-right"></div> 
-
-## 5. Por razones estructurales 
-
----
-.tiny[<div class="logo-right"></div> 
-*5. Porque trabajamos*]
-.center[![:scale 83%](input/img/figures/figure11.png)]
-.tiny[**Figura 9.** Distribución de la percepción del cumplimiento de normas sanitarias del resto de la población (*n= 1.261*)]
----
-class: inverse
-.tiny[*6. Porque la situación de salud mental*]
-.center[![:scale 83%](input/img/figures/figure10.png)]
-.tiny[Figura 10. Probabilidades predichas de la percepción cumplimiento de normas sanitarias de la población(*n= 1.261*)]
 ---
 
 class: center middle
 
 <div class="logo-blank"></div> 
 
-# ¿Cómo promovemos el respeto a las **medidas de cuidado de COVID-19**?
+# ¿Cómo reducir las **barreras al cuidado en la pandemia por COVID-19**?
 
 ---
 class: center inverse middle
 
 <div class="logo-blank-right"></div> 
 
-### 1. Comunicación de riesgos
+### 1. Barreras socio-económicos
+- Promover permisos para teletrabajar
+- Horarios de trabajo diferidos en los sectores económicos más concentrados (grandes empresas y productivos)
+- Pago de transporte a trabajadores de estos sectores o esenciales
 
---
+### 2. Barreras de salud mental
+- Aumentar el presupuesto destinado a salud mental, focalizando los recursos en la atención primaria de salud
+- Acciones de prevención y tratamiento tradicionales pueden ser potenciadas a través del uso de internet y plataformas digitales
 
-### 2. Fiscalización real y comunicada a la ciudadanía
+---
+class: center inverse middle
 
---
+<div class="logo-blank-right"></div> 
 
-### 3. Comunicar normas sociales
+### 3. Comunicación de riesgos
+- Comunicar adecuadamente los riesgos del coronavirus para distintas poblaciones
+- Evitar dar señales de mejora en momentos de gravedad de la crisis
 
+### 4. Comunicar normas sociales
+- Comunicar ejemplos de otras personas y autoridades que cumplen con las normas
+- Evitar destacar constantemente casos de incumplimiento (medios de comunicación)
+
+### 5. Fiscalización del cumplimiento de medidas sanitarias
+- Aumentar fiscalización de cumplimiento de medidas sanitarias
+- Aumentar comunicación de fiscalización a la ciudadanía
 ---
 class: inverse center middle
 <div class="logo-blank-right"></div> 
@@ -324,6 +353,13 @@ class: inverse center middle
 # [`r icon::fontawesome$solid$'mouse-pointer'` www.movid19.cl/](www.movid19.cl/)
 
 # [`r icon::simple_icons$github` github/CoV-IMPACT-C ](https://github.com/CoV-IMPACT-C)
+
+*Equipo a cargo del análisis de la encuesta:*
+- Valentina Andrade
+- Cristóbal Moya
+- Monica Gerber
+
+
 
 ---
 background-image: url("https://upload.wikimedia.org/wikipedia/commons/b/bc/Untitled_design.gif")
