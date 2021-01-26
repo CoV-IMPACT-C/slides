@@ -72,7 +72,7 @@ class: right bottom inverse
 class: center
 <div class="logo-right"></div> 
 
-.center[![:scale 90%](input/img/video-team.gif)
+.center[![:scale 80%](input/img/video-team.gif)
 ]
 
 ---
@@ -84,7 +84,7 @@ class: center
 
 - **La Universidad de Chile patrocina** pero participan académicos de distintas casas de estudio
 
-![:scale 90%](input/img/institutions.png)
+![:scale 80%](input/img/institutions.png)
 
 ---
 class: center inverse
@@ -139,14 +139,13 @@ background-size: small
 ### Metodología
 - **Temporalidad**: transversal combinado ( 1° medición en diciembre 2020 y 2° en abril 2021)
 ---
-.center[![:scale 90%](input/img/figures/movid_impact_context.png)]
-.tiny[**Figura 0.** Casos contagiagos]
+.center[![:scale 80%](input/img/figures/figure0.png)]
+.tiny[**Figura 0.** Evolución de los casos contagiados por COVID-19 de marzo a la fecha. Fuente: [Ministerio de la Ciencia](https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto5/TotalesNacionales_T.csv)]
 
 ---
 <div class="logo-right"></div> 
 
-## MOVID-IMPACT
-### Metodología
+## MOVID-IMPACT: Metodología
 
 - **Encuesta telefónica**
   - Terreno realizado por el [Centro de Encuestas UC](http://www.encuestas.uc.cl/) entre el 4 y 22 de diciembre
@@ -156,7 +155,6 @@ background-size: small
 - **Diseño muestral**
   - Población objetivo: mayores de 18 años que residen en zonas urbanas de Chile
   - 1° medición *n = 1.261 casos*
-
 
 ---
 background-image: url("input/img/movid-impact.png")
@@ -172,7 +170,8 @@ class: center inverse middle
 
 <div class="logo-blank"></div> 
 
-## Principales resultados: ¿Cuáles son las barreras al cuidado en pandemia en Chile?
+### Principales resultados
+## ¿Cuáles son las barreras al cuidado en pandemia en Chile?
 
 ---
 class: center middle
@@ -184,10 +183,8 @@ class: center middle
 ---
 <div class="logo-right"></div> 
 .tiny[*¿Cuánto nos cuidamos del COVID-19 en Chile?*]
-
-.center[![:scale 90%](input/img/figures/figure1.png)]
+.center[![:scale 80%](input/img/figures/figure1.png)]
 .small[**Figura 1.** Proporción de personas que indican *"Siempre"* cumplir las medidas de cuidado señaladas (*n=1.261 casos*)]
-
 
 ---
 class: center inverse middle
@@ -204,106 +201,75 @@ class: center middle
 ## 1. Barreras **socio-económicas**
 ---
 .tiny[<div class="logo-right"></div> 
-*1. Barreras **socio-económicas**]
-
-.center[![:scale 95%](input/img/figures/figure2.png)]
-
+*1. Barreras **socio-económicas***]
+.center[![:scale 82%](input/img/figures/figure2.png)]
 .small[**Figura 2.** Prácticas de cuidados según si encuestado trabaja o no (*n= 1.261 casos*)]
 ---
-
 class: center middle
-
 <div class="logo-right"></div> 
-
 ## 2. Barreras de **salud mental**
 ---
 .tiny[<div class="logo-right"></div> 
-*2. Barreras de **salud mental**]
-
-.center[![:scale 95%](input/img/figures/figure3.png)]
-
+*2. Barreras de **salud mental***]
+.center[![:scale 82%](input/img/figures/figure3.png)]
 .small[**Figura 3.** Proporción de personas que reportan síntomas depresivos (*n= 1.261 casos*)]
 ---
-
 .tiny[<div class="logo-right"></div> 
-*2. Barreras de **salud mental**]
-
-.center[![:scale 95%](input/img/figures/figure4.png)]
-
+*2. Barreras de **salud mental***]
+.center[![:scale 82%](input/img/figures/figure4.png)]
 .small[**Figura 4.** Prácticas de cuidado según síntomas depresivos (*n= 1.261 casos*)]
 ---
-
 class: center middle
-
 <div class="logo-right"></div> 
-
 ## 3. Percepción de **riesgo del coronavirus**
 ---
 .tiny[<div class="logo-right"></div> 
-*3. Percepción de **riesgo del coronavirus**]
-
-.center[![:scale 95%](input/img/figures/figure5.png)]
-
+*3. Percepción de **riesgo del coronavirus***]
+.center[![:scale 82%](input/img/figures/figure5.png)]
 .small[**Figura 5.** Percepción de riesgo del coronavirus (*n= 1.261 casos*)]
-
 ---
 .tiny[<div class="logo-right"></div> 
-*3. Percepción de **riesgo del coronavirus**]
-
-.center[![:scale 95%](input/img/figures/figure6.png)]
-
+*3. Percepción de **riesgo del coronavirus***]
+.center[![:scale 82%](input/img/figures/figure6.png)]
 .small[**Figura 4.** Percepción de control sobre el coronavirus (*n= 1.261 casos*)]
-
 ---
 class: inverse 
-.tiny[*3. Percepción de **riesgo del coronavirus**]
-
-.center[![:scale 90%](input/img/figures/figure7.png)]
+.tiny[*3. Percepción de **riesgo del coronavirus***]
+.center[![:scale 80%](input/img/figures/figure7.png)]
 .small[Figura 4. Probabilidades estimadas de cuidarse según percepción de riesgo (*n= 1.261 casos*)]
 ---
-
----
 class: inverse 
-.tiny[*3. Percepción de **riesgo del coronavirus**]
-
-.center[![:scale 90%](input/img/figures/figure8.png)]
+.tiny[*3. Percepción de **riesgo del coronavirus***]
+.center[![:scale 80%](input/img/figures/figure8.png)]
 .small[Figura 4. Probabilidades estimadas de cuidarse según percepción de control (*n= 1.261 casos*)]
 ---
-
 class: center middle
-
 <div class="logo-right"></div> 
-
 ## 4. Percepción de **normas sociales**
-
 ---
 .tiny[<div class="logo-right"></div> 
 4. Percepción de **normas sociales**]
-.center[![:scale 90%](input/img/figures/figure9.png)]
+.center[![:scale 75%](input/img/figures/figure9.png)]
 .tiny[**Figura 5.** Percepción sobre cuidados que toman otros (*n= 1.261*)]
 ---
 class: inverse
-.tiny[4. Percepción de **normas sociales**]
-.center[![:scale 90%](input/img/figures/figure10.png)]
+.tiny[*4. Percepción de normas sociales*]
+.center[![:scale 80%](input/img/figures/figure10.png)]
 .tiny[Figura 6. Probabilidades estimadas de cuidado según cuidados de otros (*n= 1.261*)]
 ---
 class: center middle
-
 <div class="logo-right"></div> 
-
-## 5. Percepciones de fiscalización 
-
+## 5. Percepciones de **fiscalización** 
 ---
 .tiny[<div class="logo-right"></div> 
-5. Percepciones de fiscalización]
-.center[![:scale 85%](input/img/figures/figure11.png)]
+*5. Percepciones de fiscalización*]
+.center[![:scale 82%](input/img/figures/figure11.png)]
 .tiny[**Figura 7.**Percepción de fiscalización por no cumplir normas sanitarias (*n= 1.261*)]
 ---
 class: inverse
-.tiny[5. Percepciones de fiscalización]
-.center[![:scale 85%](input/img/figures/figure12.png)]
+.tiny[*5. Percepciones de fiscalización*]
+.center[![:scale 80%](input/img/figures/figure12.png)]
 .tiny[Figura 8. Probabilidades estimadas de cuidado según percepción de fiscalización (*n= 1.261*)]
-
 ---
 
 class: center middle
@@ -322,6 +288,8 @@ class: center inverse middle
 - Horarios de trabajo diferidos en los sectores económicos más concentrados (grandes empresas y productivos)
 - Pago de transporte a trabajadores de estos sectores o esenciales
 
+--
+
 ### 2. Barreras de salud mental
 - Aumentar el presupuesto destinado a salud mental, focalizando los recursos en la atención primaria de salud
 - Acciones de prevención y tratamiento tradicionales pueden ser potenciadas a través del uso de internet y plataformas digitales
@@ -334,6 +302,8 @@ class: center inverse middle
 ### 3. Comunicación de riesgos
 - Comunicar adecuadamente los riesgos del coronavirus para distintas poblaciones
 - Evitar dar señales de mejora en momentos de gravedad de la crisis
+
+--
 
 ### 4. Comunicar normas sociales
 - Comunicar ejemplos de otras personas y autoridades que cumplen con las normas
@@ -354,12 +324,15 @@ class: inverse center middle
 
 # [`r icon::simple_icons$github` github/CoV-IMPACT-C ](https://github.com/CoV-IMPACT-C)
 
+---
+class: inverse center middle
+<div class="logo-blank-right"></div> 
+
 *Equipo a cargo del análisis de la encuesta:*
-- Valentina Andrade
-- Cristóbal Moya
-- Monica Gerber
 
-
+- Valentina Andrade [`r icon::simple_icons$github`](https://github.com/valentinaandrade)
+- Cristóbal Moya [`r icon::simple_icons$github`](https://github.com/Crismoc)
+- Monica Gerber [`r icon::simple_icons$github`](https://github.com/mmgerber)
 
 ---
 background-image: url("https://upload.wikimedia.org/wikipedia/commons/b/bc/Untitled_design.gif")
