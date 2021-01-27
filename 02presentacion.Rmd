@@ -141,7 +141,11 @@ background-size: small
 - **Encuesta telefónica**
   - Terreno realizado por el [Centro de Encuestas UC](http://www.encuestas.uc.cl/) entre el 4 y el 22 de diciembre 2020
   
---
+---
+<div class="logo-right"></div> 
+
+### MOVID-IMPACT
+#### Metodología
 
 - **Diseño muestral**
   - Población objetivo: mayores de 18 años que residen en **zonas urbanas** de Chile
@@ -153,6 +157,7 @@ background-size: small
 <div class="logo-right"></div> 
 ### MOVID-IMPACT
 #### Metodología
+
 - **Temporalidad**: transversal combinado ( 1° medición en diciembre 2020 y 2° en abril 2021)
 ---
 .center[![:scale 80%](input/img/figures/figure0.png)]
@@ -184,7 +189,6 @@ class: center middle
 ## ¿Cuánto nos cuidamos del COVID-19 en Chile?
 
 ---
-.tiny[¿Cuánto nos cuidamos del COVID-19 en Chile?]
 .center[![:scale 75%](input/img/figures/figure1.png)]
 .tiny[**Figura 1.** Proporción de personas que cumplen cada medida de cuidado (*n=1.261 casos*)]
 
