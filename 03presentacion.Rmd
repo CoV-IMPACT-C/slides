@@ -4,6 +4,7 @@ author: ".small[Valentina Andrade <br><br> CoV-IMPACT- C - ANID-COVID N° 960 <b
 date: "Martes 22 de Junio 2021"
 output:
   xaringan::moon_reader:
+    self_contained: true
     output:
     css: ["input/css/xaringan-themer.css", "input/css/movid.css"]
     lib_dir: libs
