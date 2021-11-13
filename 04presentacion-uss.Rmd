@@ -15,6 +15,7 @@ output:
       countIncrementalSlides: false
       beforeInit: "https://multinivel.netlify.com/docpres/xaringan_custom/macros.js"
     seal: false # esto omite title slide automática
+      
 ---
 background-image: url("https://www.contrapuntonoticias.com/wp-content/uploads/2020/12/a8d866c87e75ae65af8a3f167ee1e8f6.gif")
 background-position: center
